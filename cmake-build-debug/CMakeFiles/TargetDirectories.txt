@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/AKWB_2_refactored/cmake-build-debug/CMakeFiles/AKWB_2_refactored.dir
+C:/Users/User/CLionProjects/AKWB_2_refactored/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/AKWB_2_refactored/cmake-build-debug/CMakeFiles/rebuild_cache.dir

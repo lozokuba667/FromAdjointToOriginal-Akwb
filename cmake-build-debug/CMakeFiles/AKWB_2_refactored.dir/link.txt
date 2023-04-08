@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AKWB_2_refactored.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\AKWB_2_refactored.dir/objects.a @CMakeFiles\AKWB_2_refactored.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AKWB_2_refactored.dir/objects.a -Wl,--no-whole-archive -o AKWB_2_refactored.exe -Wl,--out-implib,libAKWB_2_refactored.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AKWB_2_refactored.dir\linklibs.rsp
